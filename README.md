@@ -1,5 +1,13 @@
 # Microsoft-Rewards-Bot
- 
+
+## About this Branch: 
+
+### The canary branch is subject to change without notice, and may break at any time. Use with caution
+
+***You have been warned.***
+
+----
+
 Microsoft Rewards (Bing Rewards) Bot - Completes searches and quizzes
 , written in Python!   :raised_hands: 
 
