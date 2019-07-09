@@ -246,6 +246,7 @@ def browser_setup(headless_mode, user_agent):
     options.add_argument('--disable-dev-shm-usage')
     options.add_argument('--enable-strict-powerful-feature-restrictions')
     options.add_argument('--disable-geolocation')
+    options.add_experimental_option('w3c', False)
 
     if headless_mode:
         options.add_argument('--headless')
